@@ -1,7 +1,5 @@
 # AWS Theory - Complete Answers Guide
 
-## Answer 1: Cloud Computing Fundamentals and Service Models
-
 ### What is Cloud Computing?
 
 Imagine you need electricity at home. You don't build your own power plant — you simply plug into the grid and pay for what you use. Cloud computing works the same way. Instead of buying and maintaining your own servers, storage, and networking equipment, you rent computing resources from a provider like AWS over the internet and pay only for what you use.
